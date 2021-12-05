@@ -1,3 +1,3 @@
 TEMPLATE = subdirs
 
-SUBDIRS = Shaders
+SUBDIRS = Shaders Ex12RevertedTriangle Ex3PosToColor

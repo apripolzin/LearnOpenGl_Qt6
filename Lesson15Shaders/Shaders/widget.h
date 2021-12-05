@@ -6,6 +6,7 @@
 #include <QOpenGLBuffer>
 #include <QOpenGLShaderProgram>
 #include <QOpenGLVertexArrayObject>
+#include <QBasicTimer>
 
 class Widget : public QOpenGLWidget, protected QOpenGLFunctions
 {
@@ -25,7 +26,6 @@ private:
     void initializeShaders();
 
     QOpenGLBuffer vertexBuffer;
-    QOpenGLBuffer indexBuffer;
     QOpenGLVertexArrayObject vertexArrayObject;
     QOpenGLShaderProgram program;
 };
