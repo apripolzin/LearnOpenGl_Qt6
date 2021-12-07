@@ -32,6 +32,8 @@ void Widget::paintGL()
     glClear(GL_COLOR_BUFFER_BIT);
     program.bind();
 
+    program.setUniformValue("offset", 0.2f);
+
     QOpenGLVertexArrayObject::Binder vaoBinder(&vertexArrayObject);
     glDrawArrays(GL_TRIANGLES, 0, 3);
 

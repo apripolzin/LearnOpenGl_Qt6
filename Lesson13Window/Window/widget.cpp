@@ -17,7 +17,7 @@ void Widget::initializeGL()
 
 void Widget::resizeGL(int w, int h)
 {
-
+    Q_UNUSED(w) Q_UNUSED(h)
 }
 
 void Widget::paintGL()
