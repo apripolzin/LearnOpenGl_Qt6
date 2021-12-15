@@ -6,3 +6,4 @@ SUBDIRS = Lesson13Window \
           Lesson16Textures \
 		  Lesson17Transform \
 		  Lesson18Coordinates \
+		  Lesson19Camera
