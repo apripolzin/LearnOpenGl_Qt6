@@ -7,4 +7,5 @@ SUBDIRS = Lesson13Window \
           Lesson17Transform \
           Lesson18Coordinates \
           Lesson19Camera \
-          Lesson21Colors
+          Lesson21Colors \
+		  Lesson22Light
