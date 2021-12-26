@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fcube.fsh</file>
+        <file>vcube.vsh</file>
+        <file>flamp.fsh</file>
+        <file>vlamp.vsh</file>
+    </qresource>
+</RCC>
