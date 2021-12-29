@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>container2.png</file>
+        <file>container2_specular.png</file>
+        <file>matrix.jpg</file>
+    </qresource>
+</RCC>

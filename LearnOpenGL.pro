@@ -9,4 +9,5 @@ SUBDIRS = Lesson13Window \
           Lesson19Camera \
           Lesson21Colors \
 		  Lesson22Light \
-		  Lesson23Materials
+		  Lesson23Materials \
+		  Lesson25PointsOfLight
