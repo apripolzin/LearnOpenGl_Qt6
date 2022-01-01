@@ -10,4 +10,5 @@ SUBDIRS = Lesson13Window \
           Lesson21Colors \
 		  Lesson22Light \
 		  Lesson23Materials \
-		  Lesson25PointsOfLight
+		  Lesson25PointsOfLight \
+		  Lesson26ManyPointsOfLight

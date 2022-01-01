@@ -1,3 +1,3 @@
 TEMPLATE = subdirs
 
-SUBDIRS = DirectLight PointOfLight SpotLight
+SUBDIRS = DirectLight PointOfLight SpotLight SoftSpotLight
